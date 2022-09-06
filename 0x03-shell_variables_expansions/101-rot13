@@ -1,2 +1,2 @@
 #!/bin/bash
-#!/ova/onfuge 'N-Mn-m' 'A-MN-Za-mn-z'
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
